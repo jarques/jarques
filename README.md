@@ -1,5 +1,7 @@
 ### Product Designer, builder of things & adventurer
 
-Husband. Photographer. Designer, builder, mentor. Design & Product at Paper. Previously AddGlow, Paper (now thirdweb), Twitch, Academia.edu I love working on complex design problems and building products that have real impact.
+Currently building Cykick, an AI-powered training & nutrition coach for cyclists. And recently launched Payload, a time tracking app for freelancers.
 
-Wanderlust also struck me at a young age and I've been trying to experience as many cultures as I can with my wife since. My camera is always with me on my travels to do my best at documenting them.
+I am also designing and advising at Moonbeam to help creators grow thriving communities — plus two stealth AI startups.
+
+Previously led design at AddGlow, helping brands lower CAC & increase LTV via communities. Led design & product at Paper (acquired by thirdweb) launching NFT Checkout & Wallets that powered over $10M in transactions for thousands of Web3 developers. Spent 8+ years at Twitch building and leading design teams across all verticals. Helped millions of academics connect and share research at Academia.edu.
